@@ -1,5 +1,5 @@
 # Digital-Business-Card-ReactJS
-Creating a Digital-Business-Card to get better at ReactJS
+Creating a Digital-Business-Card with ReactJS
 
 <!-- # Twitter-header
 A Node script to create Dynamic Twitter Header
