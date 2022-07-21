@@ -1,4 +1,5 @@
-# Digital-Business-Card-ReactJS
+# Digital-Business-Card-ReactJS 🎴
+
 Creating a **Digital Business Card** with `ReactJS`
 
 
@@ -10,7 +11,7 @@ Creating a **Digital Business Card** with `ReactJS`
 
 ### About
 
-This project is created to practice `ReactJS`. Showcasing my **Digital Business Card** which comprises `About`, `Interest` and other information about me. While creating this project I learned about creating/organizing **React Components**, **Styling With Classes**, using **Figma Design Templates**, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :paintbrush:
+This project is created to practice `ReactJS`. Showcasing my **Digital Business Card** which comprises `About`, `Interest` and other information about me. While creating this project I learned about creating/organizing **React Components**, **Styling With Classes**, using **Figma Design Templates**, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
 
 
 ### Technologies Used
@@ -106,10 +107,9 @@ npm start
 	- [The introduction to React you've been missing - Kent C. Dodds(explains how React works under the hood)](https://www.youtube.com/watch?v=SAIdyBFHfVU)
 
 
-<!-- 
 #### Quote
 
-    “We cannot solve problems with the kind of thinking we employed when we came up with them.”
-    — Albert Einstein
+    "Success is not final; failure is not fatal: It is the courage to continue that counts."
+	— Winston S. Churchill
 >  	
-> :bulb: :alembic: :dna: -->
+> :bowtie: :stars: :national_park:
