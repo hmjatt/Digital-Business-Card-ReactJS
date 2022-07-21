@@ -34,7 +34,6 @@ cd digital-business-card
 
 ```
 
-
 ```
 npm install
 
@@ -47,37 +46,37 @@ npm start
 
 	
 ## Steps I followed to complete this project
-<!-- 
+
 1. ### Initialize Project
-	- [x] Initailize the project using `npx create-react-app react-facts` which created a complete **React App** pre-configured and pre-installed with all the dependencies.
+	<!-- - [x] Initailize the project using `npx create-react-app react-facts` which created a complete **React App** pre-configured and pre-installed with all the dependencies. -->
 
 2. ### Project Markup
-	- [x] Create JSX elements for project.
+	<!-- - [x] Create JSX elements for project. -->
 
 3. ### Custom Components
-	- [x] Insert **Header**, **MainContent**, **Footer** inside their own component.
+	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
 
 4. ### Parent/Child Components
-	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component.
+	<!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
 
 5. ### Organize components
-	- [x] Create a **components** folder inside `src` directory.
-	- [x] Move all **custom components** inside `components` folder.
+	<!-- - [x] Create a **components** folder inside `src` directory.
+	- [x] Move all **custom components** inside `components` folder. -->
 
 6. ### Update Project Markup according to **Figma Template**
-	- [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them.
+	<!-- - [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them. -->
 
 7. ### Styling Components
-	- [x] Style `Header` component.
+	<!-- - [x] Style `Header` component.
 	- [x] Added Style to `body` element and `App` component.
 	- [x] Add **className** to `MainContent` component's elements.
 	- [x] Style `MainContent` component.
 	- [x] Style **bullet** points in `MainContent` component.
 	- [x] Add **React Logo** in `MainContent` component.
-	- [x] Style `Footer` component.
+	- [x] Style `Footer` component. -->
 
 8. ### Deploy
-	- [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->
+	<!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->
 
 
 
