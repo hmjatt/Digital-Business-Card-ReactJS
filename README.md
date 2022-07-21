@@ -91,7 +91,7 @@ npm start
 	- [Digital Business Card](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1)
 
 3. Scrimba
-	- [React Facts Project](https://scrimba.com/learn/learnreact/react-section-1-solo-project-coce646e88eea46f91af43ca4)
+	- [Learn React](https://scrimba.com/learn/learnreact)
 
 4. React Official Documentation
 	- [React Hello World Example](https://reactjs.org/docs/hello-world.html)
