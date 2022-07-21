@@ -30,7 +30,7 @@ This project is created to practice `ReactJS`. Showcasing my **Digital Business 
 ## Usage
 
 ```
-cd react-facts
+cd digital-business-card
 
 ```
 
