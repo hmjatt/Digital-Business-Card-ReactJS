@@ -50,7 +50,7 @@ npm start
 ## Steps I followed to complete this project
 
 1. ### Initialize Project
-	<!-- - [x] Initailize the project using `npx create-react-app react-facts` which created a complete **React App** pre-configured and pre-installed with all the dependencies. -->
+	- [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
 
 2. ### Project Markup
 	<!-- - [x] Create JSX elements for project. -->
