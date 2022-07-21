@@ -1,6 +1,6 @@
 # Digital-Business-Card-ReactJS 🎴
 
-Creating a **Digital Business Card** with `ReactJS`
+Creating a **`Digital Business Card`** with `ReactJS`
 
 
 <!-- ## [Live Preview](https://hmjatt.github.io/Digital-Business-Card-ReactJS/) -->
@@ -11,7 +11,7 @@ Creating a **Digital Business Card** with `ReactJS`
 
 ### About
 
-This project is created to practice `ReactJS`. Showcasing my **Digital Business Card** which comprises `About`, `Interest` and other information about me. While creating this project I learned about creating/organizing **React Components**, **Styling With Classes**, using **Figma Design Templates**, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
+This project is created to practice `ReactJS`. Showcasing my **`Digital Business Card`** which comprises `About`, `Interest` and other information about me. While creating this project I learned about creating/organizing `React Components`, `Styling With Classes`, using `Figma Design Templates`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
 
 
 ### Technologies Used
