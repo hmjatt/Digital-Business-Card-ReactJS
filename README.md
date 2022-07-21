@@ -1,141 +1,115 @@
 # Digital-Business-Card-ReactJS
-Creating a Digital-Business-Card with ReactJS
-
-<!-- # Twitter-header
-A Node script to create Dynamic Twitter Header
-
-## [Live Preview](https://twitter.com/hmjatt/)
-
-![This is an image](https://github.com/hmjatt/Twitter-header/blob/main/public/images/headers/twitterHeader.png) -->
+Creating a Digital Business Card with ReactJS
 
 
-<!-- This project is created to create a Twitter Bot in NodeJS that fetches 3 latest followers using Twitter API V2 and create a Dynamic Twitter Header and upload it to Twitter. Dotenv, Axios, Sharp, Cron NPM packages are also used in this project.**CronJob** is run once every 15 MINUTES in order to avoid making too many requests to **Twitter API** and not to run out of **dyno hours** on **Heroku**. :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :robot: -->
+<!-- ## [Live Preview](https://hmjatt.github.io/Digital-Business-Card-ReactJS/) -->
 
+<!-- ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts.png) 
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts-mobile.png)  -->
+
+
+<!-- This project is created to practice ReactJS and includes fun facts about **ReactJS Library**. While creating this project I learned about creating/organizing **React Components**, **Styling With Classes**, using **Figma Design Templates**, etc. :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :paintbrush: -->
 
 
 ### Technologies Used
 
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> &emsp; <a href="https://developer.twitter.com/en/portal/dashboard" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" width="50" height="50"/> </a> &emsp; <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="margin-top:20px;" src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="50" height="50"/> </a> -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  &emsp;   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>  &emsp;   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> &emsp; <a href="https://www.w3schools.com/js/js_es6.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/792f7fce1ff8bfac6d0524a21b69161cdc6080a3c4e39979f21d5f8489d6fdd3/68747470733a2f2f692e626c6f67732e65732f3534356366382f6573362d6c6f676f2f6f726967696e616c2e706e67" alt="ES6" width="50" height="50"/> </a>  &emsp;  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactJS" width="50" height="50"/> </a> &emsp;  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma" width="70" height="50"/> </a>
 
-<!-- 
+
+
 ## Includes the following features/components:
 
 	- NPM
-	- Twitter API Client
-	- Dotenv
-	- Axios
-	- Sharp
-	- Twitter Develeoper Portal
-	- Cron
-	- Jimp
-	- Heroku -->
+	- ReactJS
+	- Custom Components
+	- create-react-app
+	- Figma
+	- github-pages
 
 ## Usage
+
+```
+cd react-facts
+
+```
+
 
 ```
 npm install
 
 ```
 
+```
+npm start
+
+```
+
 	
 ## Steps I followed to complete this project
 <!-- 
-1. ### Twitter Elevated Access
-	- [x] Create an application on `Twitter Developer Portal`
-	- [x] Apply for `Elevated access` if you don't have one
+1. ### Initialize Project
+	- [x] Initailize the project using `npx create-react-app react-facts` which created a complete **React App** pre-configured and pre-installed with all the dependencies.
 
-2. ### Setup Node App
-	- [x] Install **NPM** using `npm init -y` to skip questions.
-	- [x] Create `index.js` to test node.
-	
-3. ### Twitter Client
-	- [x] Install **Twitter API V2** package using `npm i twitter-api-v2`.
-	- [x] Create a `twitterClient.js` module which connects to **Twitter API V2**.
-	- [x] Install **Dotenv** package using `npm install dotenv --save`.
-	- [x] Create a project at `https://developer.twitter.com/en/portal/projects/new`.
-	- [x] Create a `.env` file and copy **API Keys** to that file.
-	- [x] Create a `testTweet()` method inside `index.js` to test API.
-	- [x] Check Twitter App if it works, it should tweet the string inside method(IT WORKS :tada:)
-	- [x] Delete or comment `testTweet()` method because it worked and is no longer needed.
+2. ### Project Markup
+	- [x] Create JSX elements for project.
 
-4. ### Get Followers
-	- [x] Create a `twitterController.js` module which collects data from **Twitter API**.
-	- [x] Get **Twitter ID** from [Tweeterid](https://tweeterid.com/)
-	- [x] Create `getFollowers()` method in `twitterController.js` which returns **3 latest followers**
-	- [x] Test `getFollowers()` method(IT WORKS :fireworks:)
-	- [x] Create a wrapper function `generateHeader()` in `index.js` which allows us to fetch followers, their images, save images and update our header dynamically.
+3. ### Custom Components
+	- [x] Insert **Header**, **MainContent**, **Footer** inside their own component.
 
-5. ### Save Follower Images
-	- [x] Create `getProfileImageUrl()` method in `twitterController.js` which returns **profile image URL from followers**.
-	- [x] Create `imageController.js` module which contains methods to manipulate images.
-	- [x] Install **Axios** package using `npm i axios`, which performs our HTTP requests.
-	- [x] Install **Sharp** package using `npm i sharp`, which modifies fetched images and save it to our **File System**.
-	- [x] Create `saveImage()` method in `imageController.js` which fetches **rounded** profile picture of followers using axios and save them to our **images** folder.
-	- [x] Call `getProfileImageUrl()` and `saveImage()` methods in `index.js` module.
-	- [x] Test `generateHeader()` wrapper function and check if images are fetched(IT WORKS :partying_face:)
+4. ### Parent/Child Components
+	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component.
 
-6. ### Create Header
+5. ### Organize components
+	- [x] Create a **components** folder inside `src` directory.
+	- [x] Move all **custom components** inside `components` folder.
 
-	- [x] Install **Jimp** package using `npm install --save jimp`, which will help us create **Dynamic Twitter Header**.
-	- [x] Import required dependencies on top of `imageController.js` module.
-	- [x] Create a `createHeader()` method in `imageController.js` module which creates `dynamicTwitterHeader.png` using `headerTemplate.png` and fetched profile picture of our **followers**.
-	- [x] Test `createHeader()` method and check if **dynamicTwitterHeader.png** is successfuly created(IT WORKS :tada:)
+6. ### Update Project Markup according to **Figma Template**
+	- [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them.
 
-7. ### Update Header
-	- [x] Create a `updateHeader()` method in `twitterController.js` module which uploads **dynamicTwitterHeader.png** to Twitter.
-	- [x] Test `updateHeader()` method and check if **dynamicTwitterHeader.png** is successfuly uploaded to Twitter(IT WORKS wooohoooo :partying_face:)
+7. ### Styling Components
+	- [x] Style `Header` component.
+	- [x] Added Style to `body` element and `App` component.
+	- [x] Add **className** to `MainContent` component's elements.
+	- [x] Style `MainContent` component.
+	- [x] Style **bullet** points in `MainContent` component.
+	- [x] Add **React Logo** in `MainContent` component.
+	- [x] Style `Footer` component.
 
-8. ### Cron Job
-	- [x] Install **Cron** package using `npm install cron`, to create a **CronJob** which generates **dynamicTwitterHeader.png** at a specified time.
-	- [x] Import **const CronJob = require("cron").CronJob** dependency on top of `index.js`.
-	- [x] Create a new object **job** from the **CronJob class** which calls `generateHeader()` wrapper function once per minute.
-	- [x] Test `job` object and check if **dynamicTwitterHeader.png** is successfuly created and uploaded to Twitter(IT WORKS yeehaw :tada:)
-	- [x] Change **CronJob** to run once every 15 MINUTES in order to avoid making too many requests to **Twitter API** and not to run out of **dyno hours** on **Heroku**.
+8. ### Deploy
+	- [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->
 
-9. ### Deploy to Heroku
-	- [x] Signed up for **Heroku** free tier(500 Dyno Hours/ month)
-	- [x] Followed [this](https://medium.com/nerd-for-tech/create-twitter-bot-using-nodejs-and-deploy-on-heroku-dd6ec31534f4) medium article by Rushikesh Mhetre to Deploy our bot on **Heroku** and have it run remotely
-	- [x] Add a `Procfile` to repo and `worker: node index.js` as a command. Disable `Web: npm start` dyno and enable `worker: node index.js` dyno in **Resources** tab under **Dashboard** to start generating header every 15 minutes :smile:
-
-
-10. ### Delete old profile pictures
-	- [x] Only keep profile pictures of 3 latest followers and delete the rest. -->
 
 
 ## Links to content that helped me with this project
 
-<!-- 1. Tutorials
-	- [Article on Dev.to by Dom The Dev](https://dev.to/dom_the_dev/build-an-automatically-updating-twitter-header-with-nodejs-and-twitter-api-2g2d)
-	- [Youtube Video by Dom The Dev](https://www.youtube.com/watch?v=jl9OKxoqVcA)
-	- [GitHub Repo by Dom The Dev](https://github.com/dom-the-dev/twitter-banner)
-	- [Freecodecamp Article by Spruce Emmanuel](https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/)
+<!-- 1. The Odin Project
+	- [React Introduction](https://www.theodinproject.com/lessons/node-path-javascript-react-introduction)
+	- [React State & Props](https://www.theodinproject.com/lessons/node-path-javascript-state-and-props)
 
-2. Twitter
-	- [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard)
-	
-3. Canva
-	- [Twitter Header Template](https://www.canva.com/twitter/templates/headers/)
+2. Scrimba
+	- [React Facts Project](https://scrimba.com/learn/learnreact/project-part-1-markup-coc7e4be18a0fe000d0e29e32)
 
-4. NPM Packages
-	- [Twitter API v2](https://www.npmjs.com/package/twitter-api-v2)
-	- [Dotenv Package](https://www.npmjs.com/package/dotenv)
-	- [Cron Package](https://www.npmjs.com/package/cron)
-	- [Sharp Package](https://www.npmjs.com/package/sharp)
-	- [Axios Package](https://www.npmjs.com/package/axios)
-	- [Jimp Package](https://www.npmjs.com/package/jimp)
+3. React Official Documentation
+	- [React Hello World Example](https://reactjs.org/docs/hello-world.html)
+	- [Introduction To JSX](https://reactjs.org/docs/introducing-jsx.html)
+	- [Rendering Elements In React](https://reactjs.org/docs/rendering-elements.html)
+	- [Components and Props](https://reactjs.org/docs/components-and-props.html)
+	- [Deployment to **gh-pages**](https://create-react-app.dev/docs/deployment/)
 
-5. Deploy to Heroku
-	- [Heroku Pricing](https://www.heroku.com/pricing#containers)
-	- [Heroku Docs(Define a Procfile)](https://devcenter.heroku.com/articles/getting-started-with-nodejs#define-a-procfile)
-	- [Medium article by Rushikesh Mhetre](https://medium.com/nerd-for-tech/create-twitter-bot-using-nodejs-and-deploy-on-heroku-dd6ec31534f4)
-	- [Medium article by Sachin Sarawgi](https://medium.com/@codesprintpro/twitter-bot-using-nodejs-c72a2a50628d) -->
-	
+4. YouTube
+	- [ReactJS Basics Video Series From Academind](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+	- [ReactJS Tutorial Video Series From Codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2)
+	- [React & Webpack 4 From Scratch - No CLI from Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4)
+	- [The introduction to React you've been missing - Kent C. Dodds(explains how React works under the hood)](https://www.youtube.com/watch?v=SAIdyBFHfVU)
+
+5. Figma Design
+	- [React Facts](https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0%3A1) -->
 
 
-
-#### Quote
 <!-- 
-    “Keep your face always toward the sunshine - and shadows will fall behind you.”
-    — Walt Whitman
+#### Quote
+
+    “We cannot solve problems with the kind of thinking we employed when we came up with them.”
+    — Albert Einstein
 >  	
-> :package: :yarn: :watch: -->
+> :bulb: :alembic: :dna: -->
