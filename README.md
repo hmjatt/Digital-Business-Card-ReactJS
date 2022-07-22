@@ -70,7 +70,7 @@ npm start
 
 7. ### Clean directory
 
-    - [x] Delete **unnecessary** files from directory.
+    - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 
 8. ### Styling Components
 
