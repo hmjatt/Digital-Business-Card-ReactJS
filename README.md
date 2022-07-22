@@ -57,10 +57,10 @@ npm start
 	- [x] Create **custom components** inside `components` folder.
 
 3. ### Header Custom Component
-	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
+	- [x] Create **`Header`** component and basic JSX elements for it.
 
 4. ### MainContent Custom Component
-	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
+	- [x] Create **`MainContent`** component and basic JSX elements for it.
 
 5. ### Footer Custom Component
 	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
