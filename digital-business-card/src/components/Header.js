@@ -1,10 +1,10 @@
-// import logo from "../logo.svg";
+import pic from "../pic.jpg";
 
 function Header() {
     return (
         <header className="App-header">
             <nav>
-                {/* <img src={logo} className="App-logo" alt="logo" /> */}
+                <img src={pic} alt="profile-pic" />
             </nav>
         </header>
     );
