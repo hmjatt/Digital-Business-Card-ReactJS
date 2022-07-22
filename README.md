@@ -53,9 +53,8 @@ npm start
 	- [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
 
 2. ### Organize components
-
-	<!-- - [x] Create a **components** folder inside `src` directory.
-	- [x] Move all **custom components** inside `components` folder. -->
+	- [x] Create a `components` folder inside `src` directory.
+	- [x] Create **custom components** inside `components` folder.
 
 3. ### Header Custom Component
 	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
