@@ -5,7 +5,7 @@ function Header() {
         <header className="App-header">
             <nav>
                 <img src={pic} alt="profile-pic" />
-				<h3>Harmeet Matharoo</h3>
+				<h1>Harmeet Matharoo</h1>
                 <h4>Fullstack Developer</h4>
 				<a href="https://linktr.ee/hmjatt">https://linktr.ee/hmjatt</a>
 				<a href="mailto:hmjatt@gmail.com">
