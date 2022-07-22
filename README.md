@@ -66,9 +66,9 @@ npm start
 	- [x] Create **`Footer`** component and basic JSX elements for it.
 
 6. ### Import Components
-	<!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
+	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component.
 
-6. ### Update Project Markup according to **Figma Template**
+6. ### Clean directory
 	<!-- - [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them. -->
 
 7. ### Styling Components
