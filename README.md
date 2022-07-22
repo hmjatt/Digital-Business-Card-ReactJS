@@ -7,15 +7,15 @@ Creating a **`Digital Business Card`** with `ReactJS`
 <!-- ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts.png)
 ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts-mobile.png)  -->
 
-### About
+### About ℹ️
 
 This project is created to practice `ReactJS`. Showcasing my **`Digital Business Card`** which comprises `About`, `Interest` and other information about me. While creating this project I learned about creating/organizing `React Components`, `Styling With Classes`, using `Figma Design Templates`, etc. After creating the project, deployed it to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :infinity:
 
-### Technologies Used
+### Technologies Used 💻
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> &emsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> &emsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> &emsp; <a href="https://www.w3schools.com/js/js_es6.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/792f7fce1ff8bfac6d0524a21b69161cdc6080a3c4e39979f21d5f8489d6fdd3/68747470733a2f2f692e626c6f67732e65732f3534356366382f6573362d6c6f676f2f6f726967696e616c2e706e67" alt="ES6" width="50" height="50"/> </a> &emsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactJS" width="50" height="50"/> </a> &emsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma" width="70" height="50"/> </a>
 
-## Includes the following features/components:
+## Includes the following features/components ⚙️
 
     - NPM
     - ReactJS
@@ -24,7 +24,7 @@ This project is created to practice `ReactJS`. Showcasing my **`Digital Business
     - Figma
     - github-pages
 
-## Usage
+## Usage 🤓
 
 ```
 cd digital-business-card
@@ -41,38 +41,38 @@ npm start
 
 ```
 
-## Steps I followed to complete this project
+## Steps I followed to complete this project 🪜
 
-1. ### Initialize Project
+1. ### Initialize Project 🎍
 
     - [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
 
-2. ### Organize components
+2. ### Organize components 🗄️
 
     - [x] Create a `components` folder inside `src` directory.
     - [x] Create **custom components** inside `components` folder.
 
-3. ### Header Custom Component
+3. ### Header Custom Component 🧩
 
     - [x] Create **`Header`** component and basic JSX elements for it.
 
-4. ### MainContent Custom Component
+4. ### MainContent Custom Component 🧩
 
     - [x] Create **`MainContent`** component and basic JSX elements for it.
 
-5. ### Footer Custom Component
+5. ### Footer Custom Component 🧩
 
     - [x] Create **`Footer`** component and basic JSX elements for it.
 
-6. ### Import Components
+6. ### Import Components 🪢
 
     - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component.
 
-7. ### Clean directory
+7. ### Clean directory🧹
 
     - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 
-8. ### Styling Components
+8. ### Styling Components 🎨
 	- **`Header`**
 		- [x] Add appropriate `className`s  to elements in `Header` component.
 		<!-- - [x] Style `Header` component. -->
@@ -87,10 +87,10 @@ npm start
 	- **`MainContent`**
 		- [x] Style `Footer` component. -->
 
-9. ### Deploy
+9. ### Deploy 📤
  <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->
 
-## Links to content that helped me with this project
+## Links to content that helped me with this project 🔗
 
 1. The Odin Project
 
