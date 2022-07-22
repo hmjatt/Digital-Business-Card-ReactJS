@@ -77,14 +77,15 @@ npm start
 		- [x] Add appropriate `className`s  to elements in `Header` component.
 		<!-- - [x] Style `Header` component. -->
 
-	<!-- - **`MainContent`**
-		- [x] Added Style to `body` element and `App` component.
+	- **`MainContent`**
+		- [x] Add appropriate `className`s  to elements in `MainContent` component.
+		<!-- - [x] Added Style to `body` element and `App` component.
 		- [x] Add **className** to `MainContent` component's elements.
 		- [x] Style `MainContent` component.
 		- [x] Style **bullet** points in `MainContent` component.
-		- [x] Add **React Logo** in `MainContent` component.
+		- [x] Add **React Logo** in `MainContent` component. -->
 
-	- **`MainContent`**
+	<!-- - **`MainContent`**
 		- [x] Style `Footer` component. -->
 
 9. ### Deploy 📤
@@ -119,7 +120,7 @@ npm start
     - [React & Webpack 4 From Scratch - No CLI from Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4)
     - [The introduction to React you've been missing - Kent C. Dodds(explains how React works under the hood)](https://www.youtube.com/watch?v=SAIdyBFHfVU)
 
-#### Quote
+#### Quote ✒️
 
     "Success is not final; failure is not fatal: It is the courage to continue that counts."
     — Winston S. Churchill
