@@ -60,7 +60,7 @@ npm start
 	- [x] Create **`Header`** component and basic JSX elements for it.
 
 4. ### MainContent Custom Component
-	- [x] Create **`MainContent`** component and basic JSX elements for it.
+	- [x] Create **`Footer`** component and basic JSX elements for it.
 
 5. ### Footer Custom Component
 	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
