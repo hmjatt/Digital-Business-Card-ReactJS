@@ -73,12 +73,15 @@ npm start
     - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 
 8. ### Styling Components 🎨
+	- **`App`**
+		- [x] Added Style to `body` element and `App` component.
+
 	- **`Header`**
-		- [x] Add appropriate `className`s  to elements in `Header` component.
+		- [x] Add appropriate `className`s to elements in `Header` component.
 		<!-- - [x] Style `Header` component. -->
 
 	- **`MainContent`**
-		- [x] Add appropriate `className`s  to elements in `MainContent` component.
+		- [x] Add appropriate `className`s to elements in `MainContent` component.
 		<!-- - [x] Added Style to `body` element and `App` component.
 		- [x] Add **className** to `MainContent` component's elements.
 		- [x] Style `MainContent` component.
@@ -86,8 +89,10 @@ npm start
 		- [x] Add **React Logo** in `MainContent` component. -->
 
 	- **`Footer`**
-		- [x] Add appropriate `className`s  to elements in `Footer` component.
+		- [x] Add appropriate `className`s to elements in `Footer` component.
 		<!-- - [x] Style `Footer` component. -->
+
+	
 
 9. ### Deploy 📤
  <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->
