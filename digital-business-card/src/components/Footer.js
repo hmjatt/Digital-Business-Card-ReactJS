@@ -1,11 +1,17 @@
 function Footer() {
     return (
         <footer>
-            <a href="https://linkedin.com/in/harmeet-matharoo-0957a1107">
-                <img src="twitter.logo" alt="twitter-logo" />
+            <a
+                className="twitter-link-button"
+                href="https://twitter.com/hmjatt"
+            >
+                <button>twitter-logo</button>
             </a>
-            <a href="https://linkedin.com/in/harmeet-matharoo-0957a1107">
-                <img src="github.logo" alt="github.logo" />
+            <a
+                className="github-link-button"
+                href="https://github.com/hmjatt"
+            >
+                <button>github-logo</button>
             </a>
         </footer>
     );

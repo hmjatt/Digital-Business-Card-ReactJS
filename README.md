@@ -85,8 +85,9 @@ npm start
 		- [x] Style **bullet** points in `MainContent` component.
 		- [x] Add **React Logo** in `MainContent` component. -->
 
-	<!-- - **`MainContent`**
-		- [x] Style `Footer` component. -->
+	- **`Footer`**
+		- [x] Add appropriate `className`s  to elements in `Footer` component.
+		<!-- - [x] Style `Footer` component. -->
 
 9. ### Deploy 📤
  <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->
