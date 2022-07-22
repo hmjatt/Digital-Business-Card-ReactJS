@@ -52,18 +52,22 @@ npm start
 1. ### Initialize Project
 	- [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
 
-2. ### Project Markup
-	<!-- - [x] Create JSX elements for project. -->
+2. ### Organize components
 
-3. ### Custom Components
-	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
-
-4. ### Parent/Child Components
-	<!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
-
-5. ### Organize components
 	<!-- - [x] Create a **components** folder inside `src` directory.
 	- [x] Move all **custom components** inside `components` folder. -->
+
+3. ### Header Custom Component
+	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
+
+4. ### MainContent Custom Component
+	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
+
+5. ### Footer Custom Component
+	<!-- - [x] Insert **Header**, **MainContent**, **Footer** inside their own component. -->
+
+6. ### Import Components
+	<!-- - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component. -->
 
 6. ### Update Project Markup according to **Figma Template**
 	<!-- - [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them. -->
