@@ -1,4 +1,4 @@
-import pic from "../pic.jpg";
+import pic from "../images/pic.jpg";
 
 function Header() {
     return (

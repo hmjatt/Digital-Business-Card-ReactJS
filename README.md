@@ -51,6 +51,7 @@ npm start
 
     - [x] Create a `components` folder inside `src` directory.
     - [x] Create **custom components** inside `components` folder.
+	- [x] Create an `images` folder inside `src` directory and move images/logos inside it.
 
 3. ### Header Custom Component 🧩
 
