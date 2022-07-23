@@ -46,6 +46,8 @@ npm start
 1. ### Initialize Project 🎍
 
     - [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
+	- [x] Import **`Oxygen`** font from google fonts.
+	- [x] Add reapating svg as a background. 
 
 2. ### Organize components 🗄️
 
@@ -85,7 +87,7 @@ npm start
 
 	- **`MainContent`**
 		- [x] Add appropriate `className`s to elements in `MainContent` component.
-		- [ ] Style `MainContent` component.
+		- [x] Style `MainContent` component.
 		
 
 	- **`Footer`**
