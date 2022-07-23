@@ -74,7 +74,7 @@ npm start
 
 8. ### Styling Components 🎨
 	- **`App`**
-		- [x] Added Style to `body` element and `App` component.
+		- [x] Added background to `body` element.
 
 	- **`Header`**
 		- [x] Add appropriate `className`s to elements in `Header` component.
