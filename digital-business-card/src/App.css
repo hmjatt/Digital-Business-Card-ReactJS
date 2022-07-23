@@ -1,6 +1,6 @@
 .App {
 	font-family: 'Oxygen', sans-serif;
-	color: rgb(245, 245, 245);
+	color: rgb(232, 232, 232);
 	background-color: #000b0f;
 	text-align: center;
 	display: flex;
@@ -15,12 +15,13 @@
 	max-width: 320px;
 	padding-top: 4em;
 	padding-bottom: 4em;
-	
+
 }
 
 a {
 	text-decoration: none;
 }
+
 /* Header Component */
 
 .App-header {
@@ -53,7 +54,7 @@ a {
 }
 
 .website-link {
-	color:rgb(170, 170, 170);
+	color: rgb(170, 170, 170);
 	font-size: 0.75em;
 }
 
@@ -82,7 +83,7 @@ a {
 	padding-right: .59em;
 }
 
-.linkedin-link-button button{
+.linkedin-link-button button {
 	background-color: rgb(80, 147, 226);
 	border: 1px solid rgb(80, 147, 226);
 	color: white;
@@ -93,11 +94,20 @@ a {
 /* MainContent Component */
 main {
 	background-color: #001619;
+	text-align: left;
+	padding: 9%;
 }
 
-h3, p {
+h3,
+p {
 	margin: 0;
-	padding: 2%;
+	/* padding: 2%; */
+}
+
+.about-text, .interests-text {
+	padding-top: .5em;
+	font-size: 0.73em;
+	color: rgb(175, 175, 175);
 }
 /* MainContent Component */
 
@@ -108,4 +118,5 @@ footer {
 	border-bottom-left-radius: 12px;
 	border-bottom-right-radius: 12px;
 }
+
 /* Footer Component */
