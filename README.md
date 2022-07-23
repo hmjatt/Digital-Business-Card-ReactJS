@@ -81,19 +81,16 @@ npm start
 
 	- **`Header`**
 		- [x] Add appropriate `className`s to elements in `Header` component.
-		<!-- - [x] Style `Header` component. -->
+		- [x] Style `Header` component.
 
 	- **`MainContent`**
 		- [x] Add appropriate `className`s to elements in `MainContent` component.
-		<!-- - [x] Added Style to `body` element and `App` component.
-		- [x] Add **className** to `MainContent` component's elements.
 		- [x] Style `MainContent` component.
-		- [x] Style **bullet** points in `MainContent` component.
-		- [x] Add **React Logo** in `MainContent` component. -->
+		
 
 	- **`Footer`**
 		- [x] Add appropriate `className`s to elements in `Footer` component.
-		<!-- - [x] Style `Footer` component. -->
+		- [x] Style `Footer` component.
 
 	
 
