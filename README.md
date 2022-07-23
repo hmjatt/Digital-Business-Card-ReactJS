@@ -65,6 +65,7 @@ npm start
 5. ### Footer Custom Component 🧩
 
     - [x] Create **`Footer`** component and basic JSX elements for it.
+	- [x] Add **Email** and **LinkedIn** Logos.
 
 6. ### Import Components 🪢
 
