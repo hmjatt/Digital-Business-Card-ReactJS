@@ -85,12 +85,12 @@ npm start
 
 	- **`MainContent`**
 		- [x] Add appropriate `className`s to elements in `MainContent` component.
-		- [x] Style `MainContent` component.
+		- [ ] Style `MainContent` component.
 		
 
 	- **`Footer`**
 		- [x] Add appropriate `className`s to elements in `Footer` component.
-		- [x] Style `Footer` component.
+		- [ ] Style `Footer` component.
 
 	
 
