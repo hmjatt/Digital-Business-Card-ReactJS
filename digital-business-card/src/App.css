@@ -43,6 +43,7 @@ a {
 .name-text {
 	font-size: 1.5em;
 	margin-bottom: 1%;
+	letter-spacing: 0.03em;
 }
 
 .title-text {
@@ -79,6 +80,10 @@ a {
 	cursor: pointer;
 }
 
+.header-button-links button:hover, .website-link:hover {
+	filter: opacity(80%);
+}
+
 .header-button-links button img {
 	padding-right: .59em;
 }
@@ -104,12 +109,14 @@ p {
 	/* padding: 2%; */
 }
 
-.about-text, .interests-text {
+.about-text,
+.interests-text {
 	padding-top: .5em;
 	font-size: 0.73em;
 	color: rgb(175, 175, 175);
 	line-height: 1.3em;
 }
+
 /* MainContent Component */
 
 /* Footer Component */
