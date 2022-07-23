@@ -125,6 +125,19 @@ footer {
 	padding: 5%;
 	border-bottom-left-radius: 12px;
 	border-bottom-right-radius: 12px;
+	display: flex;
+	justify-content: center;
+}
+
+footer button {
+	margin: 0 1em;
+	cursor: pointer;
+	background-color: #001012;
+	height: 25px;
+	width: 25px;
+	border-radius: 3px;
+	padding: 0;
+	border: none;
 }
 
 /* Footer Component */

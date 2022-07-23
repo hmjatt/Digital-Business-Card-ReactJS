@@ -92,7 +92,7 @@ npm start
 
 	- **`Footer`**
 		- [x] Add appropriate `className`s to elements in `Footer` component.
-		- [ ] Style `Footer` component.
+		- [x] Style `Footer` component.
 
 	
 
