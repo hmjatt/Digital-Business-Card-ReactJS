@@ -56,6 +56,7 @@ npm start
 3. ### Header Custom Component 🧩
 
     - [x] Create **`Header`** component and basic JSX elements for it.
+	- [x] Add **Email** and **LinkedIn** Logos.
 
 4. ### MainContent Custom Component 🧩
 

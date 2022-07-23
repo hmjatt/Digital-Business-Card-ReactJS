@@ -1,4 +1,6 @@
 import pic from "../images/pic.jpg";
+import linkedin from "../images/linkedin.svg";
+import emailLogo from "../images/email.svg";
 
 function Header() {
     return (
@@ -9,10 +11,16 @@ function Header() {
                 <h4 className="title-text">Fullstack Developer</h4>
                 <a className="website-link" href="https://linktr.ee/hmjatt">https://linktr.ee/hmjatt</a>
                 <a className="email-link-button" href="mailto:hmjatt@gmail.com">
-                    <button>Email</button>
+                    <button>
+					<img className="email-logo" src={emailLogo} alt="email-logo" />
+						Email
+						</button>
                 </a>
                 <a className="linkedin-link-button" href="https://linkedin.com/in/harmeet-matharoo-0957a1107">
-                    <button>LinkedIn</button>
+                    <button>
+					<img className="linkedin-logo" src={linkedin} alt="linkedin-logo" />
+						LinkedIn
+						</button>
                 </a>
             </nav>
         </header>
