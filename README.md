@@ -4,8 +4,7 @@ Creating a **`Digital Business Card`** with `ReactJS`
 
 <!-- ## [Live Preview](https://hmjatt.github.io/Digital-Business-Card-ReactJS/) -->
 
-<!-- ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts.png)
-![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts-mobile.png)  -->
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/digital-business-card-react/digital-card.png)
 
 ### About ℹ️
 
