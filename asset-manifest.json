@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Digital-Business-Card-ReactJS/static/css/main.7a48e510.css",
+    "main.js": "/Digital-Business-Card-ReactJS/static/js/main.79eab3d5.js",
+    "static/js/787.86b5e812.chunk.js": "/Digital-Business-Card-ReactJS/static/js/787.86b5e812.chunk.js",
+    "static/media/pic.jpg": "/Digital-Business-Card-ReactJS/static/media/pic.142fa67e9b04b2bfa808.jpg",
+    "static/media/github.svg": "/Digital-Business-Card-ReactJS/static/media/github.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/twitter.svg": "/Digital-Business-Card-ReactJS/static/media/twitter.3f40423293e1813898c7e26f729a0705.svg",
+    "index.html": "/Digital-Business-Card-ReactJS/index.html",
+    "static/media/linkedin.svg": "/Digital-Business-Card-ReactJS/static/media/linkedin.629bf92ee99b6aa01a5c2869b2d41378.svg",
+    "static/media/email.svg": "/Digital-Business-Card-ReactJS/static/media/email.9a2254b41727510aba0d31da7ad223f9.svg",
+    "main.7a48e510.css.map": "/Digital-Business-Card-ReactJS/static/css/main.7a48e510.css.map",
+    "main.79eab3d5.js.map": "/Digital-Business-Card-ReactJS/static/js/main.79eab3d5.js.map",
+    "787.86b5e812.chunk.js.map": "/Digital-Business-Card-ReactJS/static/js/787.86b5e812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a48e510.css",
+    "static/js/main.79eab3d5.js"
+  ]
+}
