@@ -46,19 +46,19 @@ npm start
 1. ### Initialize Project 🎍
 
     - [x] Initailize the project using `npx create-react-app digital-business-card` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
-	- [x] Import **`Oxygen`** font from google fonts.
-	- [x] Add reapating svg as a background. 
+    - [x] Import **`Oxygen`** font from google fonts.
+    - [x] Add reapating svg as a background.
 
 2. ### Organize components 🗄️
 
     - [x] Create a `components` folder inside `src` directory.
     - [x] Create **custom components** inside `components` folder.
-	- [x] Create an `images` folder inside `src` directory and move images/logos inside it.
+    - [x] Create an `images` folder inside `src` directory and move images/logos inside it.
 
 3. ### Header Custom Component 🧩
 
     - [x] Create **`Header`** component and basic JSX elements for it.
-	- [x] Add **Email** and **LinkedIn** Logos.
+    - [x] Add **Email** and **LinkedIn** Logos.
 
 4. ### MainContent Custom Component 🧩
 
@@ -67,34 +67,35 @@ npm start
 5. ### Footer Custom Component 🧩
 
     - [x] Create **`Footer`** component and basic JSX elements for it.
-	- [x] Add **Email** and **LinkedIn** Logos.
+    - [x] Add **Email** and **LinkedIn** Logos.
 
 6. ### Import Components 🪢
 
     - [x] Import **Header**, **MainContent**, **Footer** components inside `App` component.
 
-7. ### Clean directory🧹
+7. ### Styling Components 🎨
+
+    - **`App`**
+
+        - [x] Added style to `body` element and `App` component.
+
+    - **`Header`**
+
+        - [x] Add appropriate `className`s to elements in `Header` component.
+        - [x] Style `Header` component.
+
+    - **`MainContent`**
+
+        - [x] Add appropriate `className`s to elements in `MainContent` component.
+        - [x] Style `MainContent` component.
+
+    - **`Footer`**
+        - [x] Add appropriate `className`s to elements in `Footer` component.
+        - [x] Style `Footer` component.
+
+8. ### Clean directory🧹
 
     - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
-
-8. ### Styling Components 🎨
-	- **`App`**
-		- [x] Added style to `body` element and `App` component.
-
-	- **`Header`**
-		- [x] Add appropriate `className`s to elements in `Header` component.
-		- [x] Style `Header` component.
-
-	- **`MainContent`**
-		- [x] Add appropriate `className`s to elements in `MainContent` component.
-		- [x] Style `MainContent` component.
-		
-
-	- **`Footer`**
-		- [x] Add appropriate `className`s to elements in `Footer` component.
-		- [x] Style `Footer` component.
-
-	
 
 9. ### Deploy 📤
  <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->

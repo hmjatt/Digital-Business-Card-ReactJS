@@ -17,11 +17,13 @@ function Footer() {
                 </button>
             </a>
             <a className="github-link-button" href="https://github.com/hmjatt">
-                <button><img
+                <button>
+                    <img
                         className="github-logo"
                         src={github}
                         alt="github-logo"
-                    /></button>
+                    />
+                </button>
             </a>
         </footer>
     );
