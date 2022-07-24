@@ -97,7 +97,8 @@ npm start
     - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 
 9. ### Deploy 📤
- <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages** -->
+
+    - [ ] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project to **GitHub Pages**
 
 ## Links to content that helped me with this project 🔗
 
